@@ -30,6 +30,8 @@ namespace Shit3
 
             this.textBoxSecondsLeft.KeyDown += (object sender, KeyEventArgs args) => { HandleKeyDown(args); };
 
+            this.labelScoreEvaluation.Text = "";
+
             DisplayWelcomeMessage();
         }
 
