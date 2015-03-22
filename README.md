@@ -4,6 +4,8 @@ Your best friend is in danger! An evil mastermind with a PhD in cryptosomething 
 
 If you will be able to figure out the code before the timer expires, good for you - and for your friend; otherwise, the cell where your friend is kept will be instantly filled with water, struck by a bolt, set on fire, compressed to the size of 1 cube millimeter, and eaten by a shark. Chances are your best friend won't survive that. Would you let that happen? Of course not!
 
+===
+
 So here's a few things you should keep in mind:
 
 - The board mostly contains random letters, but it also contains a **secret sentence** which is 50 to 100 characters long (spaces are omitted, and no punctuation is present in the original sentence). 
