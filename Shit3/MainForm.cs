@@ -15,6 +15,20 @@ namespace Shit3
         public MainForm()
         {
             InitializeComponent();
+
+            FillInWordsOfChoice();
+        }
+
+        private void FillInWordsOfChoice()
+        {
+            var words = System.IO.File.ReadLines("words.txt");
+
+            foreach (var w in words)
+            {
+                this.comboBoxWordsOfChoice.Items.Add(w);
+            }
+
+            this.comboBoxWordsOfChoice.Text = "test";
         }
     }
 }

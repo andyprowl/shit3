@@ -28,12 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.comboBoxWordsOfChoice = new System.Windows.Forms.ComboBox();
+            this.labelWordOfChoice = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // comboBoxWordsOfChoice
+            // 
+            this.comboBoxWordsOfChoice.FormattingEnabled = true;
+            this.comboBoxWordsOfChoice.Location = new System.Drawing.Point(149, 42);
+            this.comboBoxWordsOfChoice.Name = "comboBoxWordsOfChoice";
+            this.comboBoxWordsOfChoice.Size = new System.Drawing.Size(223, 24);
+            this.comboBoxWordsOfChoice.TabIndex = 0;
+            // 
+            // labelWordOfChoice
+            // 
+            this.labelWordOfChoice.AutoSize = true;
+            this.labelWordOfChoice.Location = new System.Drawing.Point(36, 45);
+            this.labelWordOfChoice.Name = "labelWordOfChoice";
+            this.labelWordOfChoice.Size = new System.Drawing.Size(107, 17);
+            this.labelWordOfChoice.TabIndex = 1;
+            this.labelWordOfChoice.Text = "Word of choice:";
+            // 
+            // MainForm
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(850, 453);
+            this.Controls.Add(this.labelWordOfChoice);
+            this.Controls.Add(this.comboBoxWordsOfChoice);
+            this.Name = "MainForm";
+            this.Text = "Shit3";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.ComboBox comboBoxWordsOfChoice;
+        private System.Windows.Forms.Label labelWordOfChoice;
     }
 }
 
