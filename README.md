@@ -1,4 +1,4 @@
-*[The 4th Lounge Marmalade](http://chat.stackoverflow.com/rooms/73528/lounge-game-marmalade) presents...*
+*[The 4th Lounge<C++> Game Marmalade](http://chat.stackoverflow.com/rooms/73528/lounge-game-marmalade) presents...*
 
 # shit3
 
