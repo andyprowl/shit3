@@ -1,3 +1,5 @@
+*[The 4th Lounge Marmalade](http://chat.stackoverflow.com/rooms/73528/lounge-game-marmalade) presents...*
+
 # shit3
 
 Your best friend is in danger! An evil mastermind with a PhD in cryptosomething keeps him prisoner inside a cell that can only be opened by entering a secret 4-letter code. The evil mastermind is a total asshole, but he does value skills, so here's the deal: he will start a timer and present you with a board that contains the secret code in a slightly obfuscated form. 
