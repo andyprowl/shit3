@@ -15,3 +15,5 @@ So here's a few things you'd better keep in mind:
 # Notes
 
 Shit3 takes the secret sentences by performing HTTP requests to the Web Site http://bnc.bl.uk/BLquery.php. The potential 4-letter codes are taken from a file that must be located in the same folder as Shit3's executable.
+
+Oh, and **you can cheat** if you really need to! Just left-click on the countdown edit box and press Alt+Ctrl+Shift+C. The secret code will appear in a dialog box.
