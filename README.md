@@ -1,6 +1,6 @@
 *[The 4th Lounge<C++> Game Marmalade](http://chat.stackoverflow.com/rooms/73528/lounge-game-marmalade) presents...*
 
-# shit3
+# XWord
 
 Your best friend is in danger! An evil mastermind with a PhD in cryptosomething keeps him prisoner inside a cell that can only be opened by entering a secret 4-letter code. The evil mastermind is a total asshole, but he does value skills, so here's the deal: he will start a timer and present you with a board that contains the secret code in a slightly obfuscated form. 
 
@@ -16,6 +16,6 @@ So here's a few things you'd better keep in mind:
 
 # Notes
 
-Shit3 takes the secret sentences by performing HTTP requests to the Web Site http://bnc.bl.uk/BLquery.php. The potential 4-letter codes are taken from a file that must be located in the same folder as Shit3's executable.
+XWord takes the secret sentences by performing HTTP requests to the Web Site http://bnc.bl.uk/BLquery.php. The potential 4-letter codes are taken from a file that must be located in the same folder as xword's executable.
 
 Oh, and **you can cheat** if you really need to! Just left-click on the countdown edit box and press *Alt*+*Ctrl*+*Shift*+*C*. The secret code will appear in a dialog box.
